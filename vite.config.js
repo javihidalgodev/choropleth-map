@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/choropleth-map/'
+  base: '/d3-choropleth-map/'
 })
